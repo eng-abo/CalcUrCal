@@ -17,8 +17,8 @@ Features of CalcUrCal include;
 <img src="https://github.com/eng-abo/CalcUrCal/blob/main/images/screenshots/3.jpg" width="25%" height="25%" border="0">
 <img src="https://github.com/eng-abo/CalcUrCal/blob/main/images/screenshots/4.jpg" width="25%" height="25%" border="0">
 <img src="https://github.com/eng-abo/CalcUrCal/blob/main/images/screenshots/5.jpg" width="25%" height="25%" border="0">
-<img src="https://github.com/eng-abo/CalcUrCal/blob/main/images/screenshots/6.jpg" width="25%" height="25%" border="0">
-<img src="https://github.com/eng-abo/CalcUrCal/blob/main/images/screenshots/7.jpg" width="25%" height="25%" border="0">
+<img src="https://github.com/eng-abo/CalcUrCal/blob/main/images/screenshots/6.png" width="25%" height="25%" border="0">
+<img src="https://github.com/eng-abo/CalcUrCal/blob/main/images/screenshots/7.png" width="25%" height="25%" border="0">
 </div>
 
 
