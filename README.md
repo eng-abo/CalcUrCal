@@ -16,7 +16,7 @@ Automatically count calories by taking food photos! Calorie counting should be a
 <div>
   <img src="https://github.com/eng-abo/CalcUrCal/blob/main/images/screenshots/6.png" width="25%" height="25%" border="0">
 <img src="https://github.com/eng-abo/CalcUrCal/blob/main/images/screenshots/7.png" width="25%" height="25%" border="0">
-
+<br>
 <img src="https://github.com/eng-abo/CalcUrCal/blob/main/images/screenshots/1.jpg" width="25%" height="25%" border="0">
 <img src="https://github.com/eng-abo/CalcUrCal/blob/main/images/screenshots/2.jpg" width="25%" height="25%" border="0">
 <img src="https://github.com/eng-abo/CalcUrCal/blob/main/images/screenshots/3.jpg" width="25%" height="25%" border="0">
